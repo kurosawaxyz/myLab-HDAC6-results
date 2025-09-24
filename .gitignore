@@ -12,3 +12,4 @@ checkpoints/
 _build/
 build/
 dist/
+*.bib
