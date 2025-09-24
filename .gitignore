@@ -1,0 +1,14 @@
+res/
+data/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+# *.ipynb
+archive/
+.DS_Store
+.vscode/
+*.pt
+checkpoints/
+_build/
+build/
+dist/
